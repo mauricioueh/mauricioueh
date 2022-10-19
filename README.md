@@ -1,8 +1,8 @@
 ## Eu sou a Mauricio Santos Guedes, conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/mauricioeuh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauricioueh&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioueh&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mauricioueh&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioueh&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
   
    ##
