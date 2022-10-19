@@ -1,4 +1,4 @@
-## Eu sou a Mauricio Santos Guedes, conteúdo de programação e tecnologia!
+## Eu sou a Mauricio Santos Guedes,estudando programação e tecnologia!
 <div align="center">
   <a href="https://github.com/mauricioeuh">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mauricioueh&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
