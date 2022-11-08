@@ -6,7 +6,17 @@
 </div>
   
    ##
- 
+  <br>
+<div>
+  <h2>🎓 Formação Acadêmica 🎓</h2>
+ 💡   Técnico em Eletrônica - ETEC Tereza Nunes <br>
+ 🖥️  Pós Técnico em Desenvolvimento Multiplataforma - Escola Senai de Informatica <br>
+ 💻  Bacharel em Ciência da Computação - Universidade Paulista (UNIP) <br>
+ ⚙️  Mestre em Engenharia de Produção - Universidade Paulista (UNIP) <br>
+ 🩺  Doutorando em Medicina - Universidade de São Paulo (USP) <br>
+</div>
+
+  
 <div> 
  <a href = "mailto:mauricioueh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UCmBUgx6GlfFk-c0kQ2mruMg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
