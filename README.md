@@ -4,19 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauricioueh&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioueh&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
-  
-   ##
-  <br>
-<div>
-  <h2>🎓 Formação Acadêmica 🎓</h2>
- 💡   Técnico em Eletrônica - ETEC Tereza Nunes <br>
- 🖥️  Pós Técnico em Desenvolvimento Multiplataforma - Escola Senai de Informatica <br>
- 💻  Bacharel em Ciência da Computação - Universidade Paulista (UNIP) <br>
- ⚙️  Mestre em Engenharia de Produção - Universidade Paulista (UNIP) <br>
- 🩺  Doutorando em Medicina - Universidade de São Paulo (USP) <br>
-</div>
-
-  
 <div> 
  <a href = "mailto:mauricioueh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UCmBUgx6GlfFk-c0kQ2mruMg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -26,10 +13,15 @@
  <a href="https://steamcommunity.com/id/mauricioueh/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/mauricioueh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
-  </div>
-   
-  ##
+  </div>  
+  <br>
+<div>
+  <h2>🎓 Formação Acadêmica 🎓</h2>
+ 🛠️  Instrumentação Industrial - Senai São Gonçalo <br>
+ 👨‍💻  (Cursando) Programação Fullstack - Escola Senai de Informatica <br>
  
+</div>
+  <br>  
 <div> 
   💻 Workspace Specs  
   <br>
